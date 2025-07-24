@@ -4,6 +4,10 @@
 
 Medical_RAG_Chatbot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. The codebase is refactored using SOLID principles for maintainability and extensibility.
 
+## About
+
+Medical_RAG_Chatbot is an AI-powered chatbot designed to answer medical-related queries by leveraging Retrieval-Augmented Generation (RAG) techniques. It uses a local Llama2 language model and a FAISS vector database built from PDF medical documents. The system is modular, following SOLID principles, and supports easy ingestion of new data, robust retrieval, and interactive chat via Chainlit UI. This project is ideal for anyone seeking a private, extensible, and efficient medical Q&A assistant.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [SOLID Structure](#solid-structure)
