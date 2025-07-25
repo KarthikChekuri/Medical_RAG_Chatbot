@@ -51,5 +51,4 @@ class IngestPipeline:
 
 if __name__ == "__main__":
     pipeline = IngestPipeline()
-    pipeline.run()
-
+    pipeline.run() 

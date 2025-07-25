@@ -102,5 +102,4 @@ async def start():
 
 @cl.on_message
 async def main(message: cl.Message):
-    await handler.on_message(message)
-
+    await handler.on_message(message) 

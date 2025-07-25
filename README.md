@@ -1,5 +1,4 @@
 
-
 # Medical_RAG_Chatbot
 
 Medical_RAG_Chatbot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. The codebase is refactored using SOLID principles for maintainability and extensibility.
@@ -121,4 +120,4 @@ flowchart TD
 Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
